@@ -9,6 +9,7 @@ Already own a domain name but dont wanna pay for the host? Use AWS for free host
  <img width="600" height="350" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/machineversion.png">
   
 </div>
+
 ## Aws config
 ## Name.com
 ## FTP - ssh
