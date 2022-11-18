@@ -14,11 +14,9 @@ Already own a domain name but dont wanna pay for the host? Use AWS for free host
 What we'll be using:
 
 <div align=center>
-  <ul>
     <li><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /></li>
     <li><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /></li>
     <li><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /></li>
-  </ul
 </div>
 
 ## Aws config
