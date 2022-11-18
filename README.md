@@ -5,7 +5,7 @@ Already own a domain name but dont wanna pay for the host? Use AWS for free host
 
 <div align="center">
   
- <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/machineversion.png">
+ <img width="350" height="350" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/machineversion.png">
   
 </div>
 
