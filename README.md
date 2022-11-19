@@ -63,6 +63,9 @@ Typz: CNAME
 Value: name of your website
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/CNAME.png">
  
+Take note of the nameservers of your AWS
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/nameserveraws.png">
+ 
 ## Name.com
 
 Go to the site that has your domain name and remove their default nameservers with the one of AWS
