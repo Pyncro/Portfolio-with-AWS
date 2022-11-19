@@ -43,7 +43,7 @@ Left click on the instance and view what security group it's attached to. (ex:wi
 Security groups > wizard-x > edit inbound rules > add new rule > http > Anywhere > Save
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/httpanywhere.png">
  
-## Aws Route 53
+## Aws Route 53 setup
 
 DNS MANAGEMENT
 
@@ -58,7 +58,17 @@ Type:Public hosted zone
  For the type pick A and then copy and paste the ip addresse IPv4 of your EC4
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/o.png">
  
+Name: www
+Typz: CNAME
+Value: name of your website
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/CNAME.png">
+ 
 ## Name.com
+
+Go to the site that has your domain name and remove their default nameservers with the one of AWS
+  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/changenameserver.png">
+  
+
 ## FTP - ssh
 
 # Finalized results
