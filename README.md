@@ -91,3 +91,7 @@ the www directory is now created , download a template from materialize and then
 everytime you upload/update a file in this directory , perform a ```sudo systemctl apache2 restart```
 
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/my%20site.png">
+
+## Credits
+
+This project was able to be completed thanks to @Tricknology https://www.youtube.com/@Tricknology
