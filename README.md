@@ -22,6 +22,16 @@ What we'll be using:
 
 </div>
 
+## Aws EC2 setup
+EC2 > Instances > Launch instances 
+
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/lancerinstance.png">
+
+Choose Ubuntu 20.04 as it's the one that has the least issues with dependancies
+
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/choose%20operating%20system.png>
+ 
+ 
 ## Aws config
 ## Name.com
 ## FTP - ssh
