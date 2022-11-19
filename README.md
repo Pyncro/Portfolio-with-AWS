@@ -74,10 +74,19 @@ Go to the site that has your domain name and remove their default nameservers wi
   
 
 ## FTP - ssh
+Everything is done now with AWS , now you can connect to your ubuntu server.To do this , look into your EC2's ip address additional information , it shows you how to connect to it via ssh. (ex: ssh -i "portfolio.pem" ubuntu@ec2-xx-xxx-xxx-xxx.eu-west-3.compute.amazonaws.com)
 
-# Finalized results
+To connect to it via FTP , you must first give chmod 400 of the permission key
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/chmod%20perms.png">
+Afterwards you must integrate permissions key to your FTP.
+
+
+## Ubuntu setup
 ```sudo apt install apache2 php libapache2-mod-php mysql-server php-mysql```
 
 ```sudo systemctl apache2 status```
 
 ![image](https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/systemctl.png)
+
+
+##Finalized result
