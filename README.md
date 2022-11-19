@@ -34,8 +34,30 @@ Choose Ubuntu 20.04 as it's the one that has the least issues with dependancies.
 Proceed the steps as normal and choose the t2.micro on Step 2 (which is the free tier).
  
 On step 6 open the port to anywhere to allow all entrance to the IP host.Afterwards on step 7 create/or choose a key pair for ubuntu and then launch the instance.
+
+
+Left click on the instance and view what security group it's attached to. (ex:wizard-x)
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/Modify%20security.png">
  
-## Aws config
+ 
+Security groups > wizard-x > edit inbound rules > add new rule > http > Anywhere > Save
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/httpanywhere.png">
+ 
+## Aws Route 53
+
+DNS MANAGEMENT
+
+Create hosted zone 
+
+Type the domain name you got chose from name.com (or whichever site).
+Type:Public hosted zone
+
+
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/register.png">
+ 
+ For the type pick A and then copy and paste the ip addresse IPv4 of your EC4
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/o.png">
+ 
 ## Name.com
 ## FTP - ssh
 
