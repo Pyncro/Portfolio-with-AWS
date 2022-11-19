@@ -27,10 +27,13 @@ EC2 > Instances > Launch instances
 
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/lancerinstance.png">
 
-Choose Ubuntu 20.04 as it's the one that has the least issues with dependancies
+Choose Ubuntu 20.04 as it's the one that has the least issues with dependancies.
 
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/choose%20operating%20system.png">
  
+Proceed the steps as normal and choose the t2.micro on Step 2 (which is the free tier).
+ 
+On step 6 open the port to anywhere to allow all entrance to the IP host.Afterwards on step 7 create/or choose a key pair for ubuntu and then launch the instance.
  
 ## Aws config
 ## Name.com
