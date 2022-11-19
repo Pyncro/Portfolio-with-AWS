@@ -2,13 +2,7 @@
 
 
 ## Intro
-Already own a domain name but dont wanna pay for the host? Use AWS for free hosting.
-
-<div align="center">
-  
- <img width="600" height="350" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/machineversion.png">
-  
-</div>
+Already own a domain name but dont have a place to host it? You can use AWS for free hosting.
 
 
 What we'll be using:
