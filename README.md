@@ -19,7 +19,7 @@ What we'll be using:
     <img width="100" height="100" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/namecom.jpeg" />
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-    <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/materialize.svg">
+    <img width="100" height="100" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/materialize.svg">
 
 </div>
 
