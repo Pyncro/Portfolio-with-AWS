@@ -82,6 +82,8 @@ Afterwards you must integrate permissions key to your FTP.
 
 
 ## Ubuntu setup
+```sudo apt get update && upgrade```
+
 ```sudo apt install apache2 php libapache2-mod-php mysql-server php-mysql```
 
 ```sudo systemctl apache2 status```
@@ -90,5 +92,5 @@ Afterwards you must integrate permissions key to your FTP.
 
 
 ## Finalized result
-
+claxtonjordan.live
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/my%20site.png">
