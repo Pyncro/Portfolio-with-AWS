@@ -18,8 +18,10 @@ What we'll be using:
 </div>
 
 
-<div class="center">
-  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/schema.svg" />
+<div>
+    <center>
+        <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/schema.svg" />
+    </center>
 </div>
 
  
