@@ -18,7 +18,7 @@ What we'll be using:
 </div>
 
 
- <img src="https://raw.githubusercontent.com/Pyncro/Portfolio-with-AWS/d7905f930fc24101ad6ebf227ee45b20c8d65b97/img/schémaniv3.svg" />
+ ![image]("https://raw.githubusercontent.com/Pyncro/Portfolio-with-AWS/d7905f930fc24101ad6ebf227ee45b20c8d65b97/img/schémaniv3.svg")
  
 ## Aws EC2 setup
 EC2 > Instances > Launch instances 
