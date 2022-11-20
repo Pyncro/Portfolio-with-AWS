@@ -17,6 +17,9 @@ What we'll be using:
 
 </div>
 
+
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/schémaniv3.svg">
+ 
 ## Aws EC2 setup
 EC2 > Instances > Launch instances 
 
