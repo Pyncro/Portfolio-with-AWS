@@ -20,7 +20,7 @@ What we'll be using:
 
 
   <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/schema.svg" />
-  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/schema2.png" />
+
  
 ## Aws EC2 setup
 EC2 > Instances > Launch instances 
