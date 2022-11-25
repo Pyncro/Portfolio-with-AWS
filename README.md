@@ -95,3 +95,5 @@ everytime you upload/update a file in this directory , perform a ```sudo systemc
 ## Credits
 
 This project was able to be completed thanks to @Tricknology https://www.youtube.com/@Tricknology
+
+https://letsencrypt.org/getting-started/
