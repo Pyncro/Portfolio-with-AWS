@@ -17,7 +17,7 @@ What we'll be using:
 
 </div>
 
-<img src ="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/Sans%20titre.pdf">
+<img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/Sans%20titre.pdf">
  
 ## Aws EC2 setup
 EC2 > Instances > Launch instances 
