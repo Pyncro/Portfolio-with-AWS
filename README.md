@@ -16,6 +16,8 @@ What we'll be using:
     <img width="100" height="100" src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/materialize.svg">
 
 </div>
+
+<img src ="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/Sans%20titre.pdf">
  
 ## Aws EC2 setup
 EC2 > Instances > Launch instances 
