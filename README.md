@@ -39,6 +39,9 @@ Left click on the instance and view what security group it's attached to. (ex:wi
 Security groups > wizard-x > edit inbound rules > add new rule > http > Anywhere > Save
  <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/httpanywhere.png">
  
+ 
+Add HTTPS to the rules to allow https traffic to the website.
+ <img src="https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/HTTPS.png">
 ## Aws Route 53 setup
 
 DNS MANAGEMENT
