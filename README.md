@@ -88,6 +88,7 @@ Afterwards you must integrate permissions key to your FTP.
 
 ![image](https://github.com/Pyncro/Portfolio-with-AWS/blob/main/img/systemctl.png)
 
+## SSL certificate 
 
 ## Finalized result
 the www directory is now created , download a template from materialize and then paste it in /var/www/html (note that there's an index.html by default and that it has to be removed.)
