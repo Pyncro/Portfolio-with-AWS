@@ -98,7 +98,7 @@ https://certbot.eff.org/
 
 ```sudo ln -s /snap/bin/certbot /usr/bin/certbot```
 
-``` sudo certbot --apache```
+```sudo certbot --apache```
 
 
 ```sudo certbot renew --dry-run```
