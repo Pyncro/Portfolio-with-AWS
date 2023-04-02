@@ -90,6 +90,21 @@ Afterwards you must integrate permissions key to your FTP.
 
 ## SSL certificate 
 
+https://certbot.eff.org/
+
+```sudo snap install core; sudo snap refresh core````
+
+```sudo snap install --classic certbot```
+
+```sudo ln -s /snap/bin/certbot /usr/bin/certbot```
+
+``` sudo certbot --apache````
+
+
+```sudo certbot renew --dry-run```
+
+
+
 ## Finalized result
 the www directory is now created , download a template from materialize and then paste it in /var/www/html (note that there's an index.html by default and that it has to be removed.)
 
