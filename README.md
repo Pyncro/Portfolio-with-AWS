@@ -92,13 +92,13 @@ Afterwards you must integrate permissions key to your FTP.
 
 https://certbot.eff.org/
 
-```sudo snap install core; sudo snap refresh core````
+```sudo snap install core; sudo snap refresh core```
 
 ```sudo snap install --classic certbot```
 
 ```sudo ln -s /snap/bin/certbot /usr/bin/certbot```
 
-``` sudo certbot --apache````
+``` sudo certbot --apache```
 
 
 ```sudo certbot renew --dry-run```
